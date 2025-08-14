@@ -6,3 +6,4 @@ else:
     thirsty=input("are you thirsty?")
     if thirsty=="yes":
         print("water")
+        print("soda")
